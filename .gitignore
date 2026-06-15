@@ -18,3 +18,7 @@ desktop.ini
 # Python
 __pycache__/
 *.pyc
+
+# Project-specific scripts
+demo_video.py
+buddy-脚本.md
