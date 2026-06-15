@@ -1,0 +1,20 @@
+# Arduino IDE build output
+build/
+*.elf
+*.bin
+*.map
+*.hex
+
+# Arduino IDE temp files
+*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
